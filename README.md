@@ -1,5 +1,5 @@
 # dhe
 c++ implement for dynamic histogram equalization.
 
-##installtion
+## installtion
 All you need is opencv.
